@@ -1,4 +1,4 @@
-### Hi there, I'm Amit Shree Chandan
+## Hi there, I'm Amit Shree Chandan 👋
 
 ## I'm an aspiring Web Developer
 
